@@ -25,8 +25,8 @@ In future I would like to study illumination algorithms and other CG low-level p
     * Design patterns
     * VCS Gitlab
 
+## Example of Monte Carlo RayTracer written from scratch in C++ (no OpenGL etc.)
 ![MonteCarlo Raytracer](/img/MC_raytracing.jpg)
-Format: ![Alt Text](url)
 
 ## Other skills & interests
 * LaTex (Overleaf)
