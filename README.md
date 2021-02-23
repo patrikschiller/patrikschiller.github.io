@@ -1,2 +1,2 @@
-# Bc. Patrik Schiller
+# patrikschiller.github.io
 Personal portfolio
