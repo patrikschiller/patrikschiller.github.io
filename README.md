@@ -25,7 +25,7 @@ In future I would like to study illumination algorithms and other CG low-level p
     * Design patterns
     * VCS Gitlab
 
-## Other skills & interests
+### Other skills & interests
 * LaTex (Overleaf)
 * Linear algebra, Mathematic analysis
 * Adobe Premiere, Adobe Photoshop
