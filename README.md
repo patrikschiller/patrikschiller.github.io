@@ -1,6 +1,6 @@
 ## About me
 
-I am 22 years old student living in Prague, Czech Republic. Currently I am studying master's degree in Computer graphics at the Czech Technical University (CTU), Faculty of Electrical Engineering. In 2020 I successfully finished bachelor's degree in Software engineering at CTU FEE.
+I am 23 years old student living in Prague, Czech Republic. Currently I am studying master's degree in Computer graphics at the Czech Technical University (CTU), Faculty of Electrical Engineering. In 2020 I successfully finished bachelor's degree in Software engineering at CTU FEE.
 
 I am interested in IT, computer graphics, programming, drawing and architecture. Drawing is my hobby since my childhood, especially drawing of architecture and landscapes. Recently (since Q2 2019) I focuse on CG programming (OpenGL & C++, WebGL & JavaScript), 3D assets development (Autodesk Maya) and light game dev (Unity, Unreal Engine*).
 
@@ -11,19 +11,19 @@ In future I would like to study illumination algorithms and other CG low-level p
 ### Skills
 
 * Computer graphics
-** OpenGL 3.0
-** WebGL 2.0
-** GLSL 1.0, 1.5
-** Autodesk Maya
-** Unity
+    * OpenGL 3.0
+    * WebGL 2.0
+    * GLSL 1.0, 1.5
+    * Autodesk Maya
+    * Unity
 * Web development
-** HTML5, CSS3, JavaScript ES6+
-** PHP, SQL
-** Enterprise Java, Spring
+    * HTML5, CSS3, JavaScript ES6+
+    * PHP, SQL
+    * Enterprise Java, Spring
 * Programming
-** JS ES6+, PHP, Java, C++, Python
-** Design patterns
-** VCS Gitlab
+    * JS ES6+, PHP, Java, C++, Python
+    * Design patterns
+    * VCS Gitlab
 
 ## Other skills & interests
 * LaTex (Overleaf)
