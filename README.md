@@ -27,7 +27,7 @@ In future I would like to study illumination algorithms and other CG low-level p
 
 **Example of Monte Carlo RayTracer written from scratch in C++ (no OpenGL etc.)**
 <p style="margin-left: 5em">
-   <img src="/img/MC_raytracing.JPG" alt="MonteCarlo Raytracer" style="width: 80%">
+   <img src="/img/MC_raytracing.JPG" alt="MonteCarlo Raytracer" style="width: 60%">
 </p>
 
 ## Other skills & interests
