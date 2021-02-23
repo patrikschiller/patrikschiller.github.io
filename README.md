@@ -25,8 +25,7 @@ In future I would like to study illumination algorithms and other CG low-level p
     * Design patterns
     * VCS Gitlab
 
-![MonteCarlo Raytracer](img/MC_raytracing.jpg)
-Format: ![Alt Text](url)
+![MonteCarlo Raytracer](img/MC_raytracing.JPG)
 
 ## Other skills & interests
 * LaTex (Overleaf)
