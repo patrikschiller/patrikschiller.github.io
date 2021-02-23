@@ -26,7 +26,7 @@ In future I would like to study illumination algorithms and other CG low-level p
     * VCS Gitlab
 
 **Example of Monte Carlo RayTracer written from scratch in C++ (no OpenGL etc.)**
-<p align="center">
+<p style="margin-left: 2em">
    <img src="/img/MC_raytracing.JPG" alt="MonteCarlo Raytracer" style="width: 80%">
 </p>
 
